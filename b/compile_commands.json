@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hlx2/make/b",
+  "command": "/usr/bin/c++   -Dexample_EXPORTS -I/home/hlx2/make/b/pybind11/include -I/usr/local/include/python3.7m -I/home/hlx2/anapy35/include/include/python3.5m  -std=c++11 -O3 -fPIC -fvisibility=hidden   -flto -fno-fat-lto-objects -o CMakeFiles/example.dir/example.cpp.o -c /home/hlx2/make/b/example.cpp",
+  "file": "/home/hlx2/make/b/example.cpp"
+}
+]
